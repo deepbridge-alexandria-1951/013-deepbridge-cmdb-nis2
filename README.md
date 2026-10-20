@@ -1,4 +1,4 @@
-## DeepBridge Alexandria 1951 focuses primarily on AI solutions implemented and executed on-premises.
+**DeepBridge Alexandria 1951 focuses primarily on AI solutions implemented and executed on-premises.**
 ==============================================================================
 
 NOTICE: ARCHITECTURAL REPORT & VERIFIED PROOF OF CONCEPT (PoC)
