@@ -13,7 +13,7 @@ This software executes low-level kernel-space, memory, and hardware-near process
 
 ==============================================================================
 
-⚠️ System Latency & Hardware Disclaimer
+## ⚠️ System Latency & Hardware Disclaimer
 
 THE AUTHOR ACCEPTS ABSOLUTELY ZERO LIABILITY FOR:
 
@@ -44,5 +44,5 @@ Incident metadata supports documenting breach risk assessments, notification req
 ## Development Approach
 
 This application was architected with AI assistance. The architect specified the requirements, 
-constraints (NIS 2 compliance, Python 3.12, PostgreSQL 14, Ollama 0.33), and functional specifications. 
-The AI language model generated the implementation, database schemas, and documentation accordingly.
+constraints (NIS 2 compliance, Python 3.12), and functional specifications. 
+The AI language model generated the implementation and documentation accordingly.
